@@ -5,7 +5,9 @@ The goal is to predict the probability of the positive class for the competition
 
 **Competition:** https://www.kaggle.com/competitions/playground-series-s6e2 
 
-**My Kaggle notebook:** https://www.kaggle.com/code/bartekmietlicki/bm-heartdisease-s6e2-k
+**Kaggle notebook:** https://www.kaggle.com/code/bartekmietlicki/bm-heartdisease-s6e2-k
+
+**Colab notebook:** https://colab.research.google.com/drive/1sefYSinCoxfu4akPwEXciBc_zZujQZxM?usp=sharing
 
 ## What was done
 Three model families were evaluated using the same cross-validation strategy (**StratifiedKFold**) and the same metric (**ROC AUC**) to ensure a fair comparison:
