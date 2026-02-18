@@ -4,6 +4,7 @@ This repository contains my solution notebook for **Kaggle Playground Series (Se
 The goal is to predict the probability of the positive class for the competition test set and generate a valid submission.
 
 **Competition:** https://www.kaggle.com/competitions/playground-series-s6e2 
+
 **My Kaggle notebook:** https://www.kaggle.com/code/bartekmietlicki/bm-heartdisease-s6e2-k
 
 ## What was done
